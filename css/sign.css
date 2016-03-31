@@ -1,0 +1,38 @@
+body{
+	background-color: #FAFAFA;	
+}
+
+h1.heading{
+	text-align: center;
+	font-size: 40px;
+	font-family: arial;
+	padding: 30px;
+	font-weight: normal;	 
+}
+.content{
+	text-align: center;
+}
+
+.inButt{
+	width: 500px;
+	padding: 20px;
+	font-size: 15px;
+}
+.submitButt{
+	width: 500px;
+	padding: 20px;
+	margin: 20px;
+	background-color: #0277BD;
+	color: #FAFAFA;
+	cursor: pointer;
+	font-size: 15px;
+}
+#upIn{
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	font-family: arial;
+}
+a{
+	text-decoration: none;
+}
